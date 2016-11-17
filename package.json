@@ -1,6 +1,6 @@
 {
   "name": "@bongione/bunyan4lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bunyan logger for libraries, allowing clients to customize or turn off",
   "main": "lib/index.js",
   "files": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mindiply/seneca-app-token-service.git"
+    "url": "git+https://github.com/mindiply/bunyan4lib.git"
   },
   "keywords": [
     "bunyan",
